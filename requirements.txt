@@ -1,0 +1,13 @@
+Flask==3.0.1
+Flask_JWT_Extended==4.6.0
+flask_sqlalchemy==3.1.1
+Werkzeug==3.0.1
+
+
+*****
+Flask==3.0.1: Flask is a lightweight web framework for Python. It is designed to be simple and easy to use, allowing developers to quickly build web applications.
+Flask-JWT-Extended==4.6.0: Flask-JWT-Extended is an extension for Flask that adds support for JSON Web Tokens (JWT) to handle user authentication and authorization in Flask applications.
+flask_sqlalchemy==3.1.1: Flask-SQLAlchemy is an extension for Flask that simplifies database integration. It provides SQLAlchemy support to Flask applications, making it easier to interact with databases.
+Werkzeug==3.0.1: Werkzeug is a WSGI (Web Server Gateway Interface) utility library for Python. It is used by Flask internally and provides essential components for building web applications, such as request handling and URL routing.
+These libraries are essential components for developing web applications with Flask, handling authentication, interacting with databases, and managing web server interactions. The versions specified in your requirements.txt file indicate the specific versions of these libraries that your project is compatible with.
+*****
